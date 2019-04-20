@@ -1,6 +1,8 @@
 # robot-ud-project1
 _Robotics Software Engineer Nanodegree Program: Project 1_
 
+[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
+
 ## Description
 
 The purposes of that project is to create a simple world in Gazebo.
